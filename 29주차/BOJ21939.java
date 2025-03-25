@@ -3,7 +3,6 @@ import java.util.*;
 
 public class BOJ21939 {
     public static void main(String[] args) throws Exception {
-        // 입력 준비
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         
